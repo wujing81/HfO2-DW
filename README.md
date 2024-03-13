@@ -1,1 +1,1 @@
-# HfO2 Domain wall
+# Domain wall
